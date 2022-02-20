@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "timestamp": "2019-01-01T00:00:00.000Z",
+        "name": "Product 1",
+        "description": "Description 1",
+        "code": "code 1",
+        "photo": "photo 1",
+        "price": 1,
+        "stock": 1
+    },
+    {
+        "id": 2,
+        "timestamp": "2019-01-01T00:00:00.000Z",
+        "name": "Product 2",
+        "description": "Description 2",
+        "code": "code 2",
+        "photo": "photo 2",
+        "price": 2,
+        "stock": 2
+    },
+    {
+        "id": 3,
+        "timestamp": "2019-01-01T00:00:00.000Z",
+        "name": "Product 3",
+        "description": "Description 3",
+        "code": "code 3",
+        "photo": "photo 3",
+        "price": 3,
+        "stock": 3
+    },
+    {
+        "id": 4,
+        "timestamp": "2019-01-01T00:00:00.000Z",
+        "name": "Product 4",
+        "description": "Description 4",
+        "code": "code 4",
+        "photo": "photo 4",
+        "price": 4,
+        "stock": 4
+    }
+]
